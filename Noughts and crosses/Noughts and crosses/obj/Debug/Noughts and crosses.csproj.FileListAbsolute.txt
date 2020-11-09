@@ -1,0 +1,7 @@
+P:\Digital\VS\18Daniel Hamilton\Noughts and crosses\Noughts and crosses\bin\Debug\Noughts and crosses.exe.config
+P:\Digital\VS\18Daniel Hamilton\Noughts and crosses\Noughts and crosses\bin\Debug\Noughts and crosses.exe
+P:\Digital\VS\18Daniel Hamilton\Noughts and crosses\Noughts and crosses\bin\Debug\Noughts and crosses.pdb
+P:\Digital\VS\18Daniel Hamilton\Noughts and crosses\Noughts and crosses\obj\Debug\Noughts and crosses.csprojAssemblyReference.cache
+P:\Digital\VS\18Daniel Hamilton\Noughts and crosses\Noughts and crosses\obj\Debug\Noughts and crosses.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Daniel Hamilton\Noughts and crosses\Noughts and crosses\obj\Debug\Noughts and crosses.exe
+P:\Digital\VS\18Daniel Hamilton\Noughts and crosses\Noughts and crosses\obj\Debug\Noughts and crosses.pdb
